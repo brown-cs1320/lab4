@@ -27,6 +27,7 @@ export default {
             let leftBracketPos = 0;
 
             const texts = [];
+            // eslint-disable-next-line no-constant-condition
             while (true) {
                 leftBracketPos = this.madlibContent.indexOf('[', rightBracketPos);
                 if (leftBracketPos === -1) {
@@ -39,7 +40,7 @@ export default {
                 }
             }
 
-            return texts.map(text => text.replace(/[\[\]]/g, ''));
+            return texts.map(text => text.replace(/[[\]]/g, ''));
         },
     },
     template: `

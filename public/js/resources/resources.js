@@ -35,7 +35,7 @@ export const madlibs = [
       '[adjective] lettuce and lima [noun/s] . My favorite place to [verb] ' +
       'on the farm is the [adjective] house where grandfather keeps his ' +
       '[noun/s] . But when I visit in November, there are no [noun/s] ! They ' +
-      'are all gone! I ansxiously await at the table that Thanksgiving. I ' +
+      'are all gone! I anxiously await at the table that Thanksgiving. I ' +
       'see corn on the [noun] and eve the lime [noun/s] . I am relieved when ' +
       'grandma brings out a [noun] for Thanksgiving dinner!'
     },
@@ -45,7 +45,7 @@ export const madlibs = [
         content: 'Pizza was invented by a [adjective] [nationality] chef named [person] . ' +
       'To make a pizza, you need to take a lump of [noun] , and make a thin, ' +
       'round [adjective] [noun] . Then you cover it with [adjective] sauce, ' +
-      '[adjective] chees, and fresh chopped [noun/s] . Next you have to bake ' +
+      '[adjective] cheese, and fresh chopped [noun/s] . Next you have to bake ' +
       'it in a very hot [noun] . When it is done, cut it into [number] [shapes] . ' +
       'Some kids like [food] pizza the best, but my favorite is the [food] pizza. ' +
       'If I could, I would eat pizza [number] times a day!'
@@ -94,7 +94,7 @@ export const madlibs = [
         content: 'Yesterday a [occupation] named [noun] visited MotherBoard and the team to ' +
       'tell us about a [adjective] job that needs to be done. The most important [noun] needed ' +
       'to complete the job is to be able to [verb] and [verb]. After listening the job proposal,' +
-      'the team [verb] and [adverb] [verb] to this vistor that they would [verb] the job.  The ' +
+      'the team [verb] and [adverb] [verb] to this visitor that they would [verb] the job.  The ' +
       'visitor was [adjective] at the team\'s response.  While the team [verb] the base with the ' +
       'visitor to a new [adjective] cybersite.'
     },
@@ -186,7 +186,7 @@ export const madlibs = [
            I think today's sitcoms are just as [adjective] as the golden
            [noun]s of the past. What needs to be eliminated is the
            [adjective] laugh [noun].
-           Signed: A Confirmed Couch [vegtable]`
+           Signed: A Confirmed Couch [vegetable]`
     },
 
     {
