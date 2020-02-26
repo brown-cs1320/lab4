@@ -14,7 +14,7 @@ export default {
     },
     data() {
         return {
-            classes: ['d-flex', 'flex-column', 'justify-content-around', 'bg-primary', 'col', 'p-4'],
+            classes: ['d-flex', 'flex-column', 'justify-content-around', 'bg-secondary', 'col', 'p-4'],
             inputs: [],
         };
     },
