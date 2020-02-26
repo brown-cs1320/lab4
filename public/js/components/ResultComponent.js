@@ -1,4 +1,4 @@
-import SubstitutionComponent from "./SubstitutionComponent.js";
+import SubstitutionComponent from './SubstitutionComponent.js';
 
 export default {
     props: {

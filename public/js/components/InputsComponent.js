@@ -1,4 +1,4 @@
-import InputComponent from "./InputComponent.js";
+import InputComponent from './InputComponent.js';
 
 export default {
     props: {

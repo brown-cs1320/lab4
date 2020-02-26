@@ -1,5 +1,5 @@
-import InputsComponent from "./InputsComponent.js";
-import ResultComponent from "./ResultComponent.js";
+import InputsComponent from './InputsComponent.js';
+import ResultComponent from './ResultComponent.js';
 
 export default {
     props: {

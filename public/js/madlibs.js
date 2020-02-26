@@ -3,7 +3,7 @@ import GameComponent from './components/GameComponent.js';
 
 
 console.log(`${madlibs.length} madlibs loaded`);
-const app = new Vue({
+new Vue({
     el: '#app',
     data: {
         madlib: null,
