@@ -4,8 +4,7 @@
   "description": "Stencil code for BrownCS1320 Lab4",
   "main": "server.js",
   "scripts": {
-    "test": "node server.js",
-    "start": "node server.js"
+    "start": "nodemon server.js"
   },
   "keywords": [
     "BrownCS1320",
@@ -16,5 +15,8 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
   }
 }
